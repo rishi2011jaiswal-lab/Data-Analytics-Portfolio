@@ -79,3 +79,8 @@ Compares spending patterns of customers who completed offers versus those who di
 - Data Storytelling
 
 ---
+## Dashboard Screenshots
+
+### Customer Segmentation
+
+![Customer Segmentation](Images/Customer%20Segmentation.png)
